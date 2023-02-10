@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Oswald:wght@200&family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Righteous&display=swap');
+.divFilter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    height: 30px;
+}
+
+.divFilter select{
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: 11px;
+    margin-left: 3rem;
+    border-radius:10px;
+   
+}
+.divFilter select:hover {
+    background-color:rgb(227, 227, 227)
+}
+.divFilter select option{
+    border-radius: 10px;
+}

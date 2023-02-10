@@ -1,0 +1,41 @@
+.divPag {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.divPag button {
+  cursor: pointer;
+  height: 2rem;
+  width: 2rem;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 0 15px rgb(180, 180, 180);
+  margin: 0.5rem;
+  
+}
+.divPag button:hover {
+  
+  transform: scale(1.1);
+}
+.divPag button.active{
+    background-color: #e07671;
+    color: #fff;
+}
+.divPag button:focus{
+    background-color: #e07671;
+    color: white;
+    transform: scale(1.3);
+}
+
+.next{
+    margin-left:-4px;
+    margin-top:2.5px;
+}
+.back{
+    margin-top:2.5px;
+    margin-left:-4px;
+}
+
+

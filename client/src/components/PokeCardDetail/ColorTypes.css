@@ -1,0 +1,133 @@
+
+.fire {
+  border-radius: 10px;
+  border: none;
+  background-color: #f05030;
+  width: 5rem;
+  height: 2rem;
+}
+.grass {
+    border-radius: 10px;
+    border: none;
+    background-color: #78C850;
+    width: 5rem;
+    height: 2rem;
+}
+.steel {
+    border-radius: 10px;
+    border: none;
+    background-color: #A8A8C0;
+    width: 5rem;
+    height: 2rem;
+}
+.water{
+    border-radius: 10px;
+    border: none;
+    background-color: #3899F8;
+    width: 5rem;
+    height: 2rem;
+}
+.dragon{
+    border-radius: 10px;
+    border: none;
+    background-color: #7860E0;
+    width: 5rem;
+    height: 2rem;
+}
+.electric{
+    border-radius: 10px;
+    border: none;
+    background-color: #F8D030;
+    width: 5rem;
+    height: 2rem;
+}
+.ghost{
+    border-radius: 10px;
+    border: none;
+    background-color: #6060B0;
+    width: 5rem;
+    height: 2rem;
+}
+.fairy{
+    border-radius: 10px;
+    border: none;
+    background-color: #E79FE7;
+    width: 5rem;
+    height: 2rem;
+}
+.ice{
+    border-radius: 10px;
+    border: none;
+    background-color: #58C8E0;
+    width: 5rem;
+    height: 2rem;
+}
+.fighting{
+    border-radius: 10px;
+    border: none;
+    background-color: #A05038;
+    width: 5rem;
+    height: 2rem;
+}
+.normal{
+    border-radius: 10px;
+    border: none;
+    background-color: #A8A090;
+    width: 5rem;
+    height: 2rem;
+}
+.psychic{
+    border-radius: 10px;
+    border: none;
+    background-color: #F870A0;
+    width: 5rem;
+    height: 2rem;
+}
+.rock{
+    border-radius: 10px;
+    border: none;
+    background-color: #B8A058;
+    width: 5rem;
+    height: 2rem;
+}
+.unknown{
+    border-radius: 10px;
+    border: none;
+    background-color: #7A5848;
+    width: 5rem;
+    height: 2rem;
+}
+.ground{
+    border-radius: 10px;
+    border: none;
+    background-color: #E9D6A4;
+    width: 5rem;
+    height: 2rem;
+}
+.poison{
+    border-radius: 10px;
+    border: none;
+    background-color: #B058A0;
+    width: 5rem;
+    height: 2rem;
+}
+.flying{
+    border-radius: 10px;
+    border: none;
+    background-color: #98A8F0;
+    width: 5rem;
+    height: 2rem;
+}
+.bug{
+    border-radius: 10px;
+    border: none;
+    background-color: #A8B820;
+    width: 5rem;
+    height: 2rem;
+}
+
+
+
+
+
+
